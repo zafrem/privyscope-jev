@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "privyscope-local-llm"
-version = "0.1.6"
+version = "0.1.7"
 description = "Connect privyscope to a local LLM you already run: single-pass logprob scoring of PII candidates, no generation"
 readme = "README.md"
 requires-python = ">=3.9"
